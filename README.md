@@ -6,8 +6,7 @@
 - 👯 I’m looking to collaborate on **exciting frontend projects or join a team where I can grow as a developer and contribute with my skills in HTML, CSS, Bootstrap, JavaScript, and React.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedbilal019?tab=repositories](https://github.com/ahmedbilal019?tab=repositories)
-
-- 💬 Ask me about **Html,Css,Js,React,Bootstrap**
+  
 
 - 📫 How to reach me **ahmed258bilal@gmail.com**
 
